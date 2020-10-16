@@ -2,5 +2,19 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CB_Reborn",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "http://www.ue4code.com"
+		}
+	]
 }
